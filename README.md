@@ -20,3 +20,6 @@ $lang = array(
 );
 
 {exp:language:get value="site_description"} will echo 'Website description' from /sytem/expressionengine/language/english/custom_label_lang.php
+
+
+PROBO.
